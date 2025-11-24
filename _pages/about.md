@@ -8,8 +8,13 @@ redirect_from:
 ---
 🌟 I am currently a first-year PhD student in Second Language Studies at Michigan State University (USA). I received my MSc in Applied Linguistics and Second Language Acquisition with Distinction in Overall and Thesis from University of Oxford (UK). Prior to starting my PhD journey, I worked as a full-time research assistant on funded projects at the University of Hong Kong, Hong Kong SAR.
 
+👨‍🎓 My research interests:
+•	Vocabulary acquisition
+•	Formulaic sequences
+•	Psycholinguistics
+•	Technology-enhanced language learning/CALL
+•	Lexical processing
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
