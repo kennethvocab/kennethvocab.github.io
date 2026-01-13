@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-🌟 I am currently a first-year PhD student in Second Language Studies at Michigan State University (USA)🇺🇸. I received my MSc in Applied Linguistics and Second Language Acquisition with Distinction in Overall and Thesis from University of Oxford (UK)🇬🇧. Prior to starting my PhD journey, I worked as a full-time research assistant on funded projects at the University of Hong Kong, Hong Kong SAR🇭🇰.
+🌟 I am currently a first-year PhD student in Second Language Studies at Michigan State University (USA). I received my MSc in Applied Linguistics and Second Language Acquisition with Distinction in Overall and Thesis from University of Oxford (UK). Prior to starting my PhD journey, I worked as a full-time research assistant on funded projects at the University of Hong Kong, Hong Kong SAR.
 
 📑 My publications have appeared or will appear in *Studies in Second Language Acquisition*, *TESOL Quarterly*, *Language Teaching*, *Language Learning & Technology*, and *Language Teaching Research*, among other venues.
 
