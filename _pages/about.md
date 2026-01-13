@@ -22,5 +22,5 @@ I am particularly interested in using experiments with 🧠 psycholinguistic mea
  
 ======
 
-
+In my free time, you may find me working out at the gym💪. I am also into travelling✈️. I have lived in or visited 25 countries (e.g., Iceland🇮🇸, Switzerland🇨🇭, Finland🇫🇮, Netherlands🇳🇱, Germany🇩🇪, Belgium🇧🇪, Italy🇮🇹, France🇫🇷, Spain🇪🇸, Portugal🇵🇹, Singapore🇸🇬, Japan🇯🇵, Malaysia🇲🇾).
 
