@@ -12,7 +12,7 @@ redirect_from:
 - Vocabulary acquisition
 -	Formulaic sequences
 - Psycholinguistics
-- Lexical processing
+- Second language processing
 - Technology-enhanced language learning/CALL
 
 I am particularly interested in using experiments with 🧠 psycholinguistic measures of reaction times (RTs) and eye-tracking to examine the cognitive mechanisms of vocabulary acquisition.
