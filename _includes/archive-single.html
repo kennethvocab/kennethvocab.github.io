@@ -55,15 +55,16 @@
 </h2>
 
 {% if post.collection == 'teaching' %}
+  <h2 class="archive__item-title">
+    {{ post.title }}
+  </h2>
+
   <p>
     {{ post.type }}
-    {% if post.venue %}
-      , <i>{{ post.venue }}</i>
-    {% endif %}
-    {% if post.date %}
-      , {{ post.date | date: "%Y" }}
-    {% endif %}
+    {% if post.venue %}, <i>{{ post.venue }}</i>{% endif %}
+    {% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
   </p>
+{% endif %}
 
 {% elsif post.collection == 'publications' %}
   <p>
