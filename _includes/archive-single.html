@@ -44,7 +44,6 @@
     {% if post.venue %}
       , <i>{{ post.venue }}</i>
     {% endif %}
-    {%- comment -%} Optional: show year if desired {%- endcomment -%}
     {% if post.date %}
       , {{ post.date | date: "%Y" }}
     {% endif %}
@@ -57,7 +56,21 @@
       , {{ post.date | date: "%Y" }}
     {% endif %}
   </p>
+
+{% else %}
+  {% if post.date %}
+    <p class="page__date">
+      <strong>
+        <i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
+        {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}
+      </strong>
+      <time datetime="{{ post.date | date_to_xmlschema }}">
+        {{ post.date | date: "%B %d, %Y" }}
+      </time>
+    </p>
+  {% endif %}
 {% endif %}
+
 
 
     {% if post.excerpt and site.read_more != 'enabled' %}
