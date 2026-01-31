@@ -1,7 +1,7 @@
 ---
 title: "Travel & Research Fund"
 collection: teaching
-type: "St Cross College, University of Oxford"
+type: "<span style='font-size:1.2em'>St Cross College, University of Oxford</span>"
 permalink: /teaching/2014-spring-teaching-1
 ---
 
