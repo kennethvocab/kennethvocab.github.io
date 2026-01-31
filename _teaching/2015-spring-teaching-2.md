@@ -1,6 +1,6 @@
 ---
 title: "Four-Year Full Funding Package for PhD Studies"
 collection: teaching
-type: "Second Language Studies Program, Michigan State University"
+type: "<span style='font-size:1.1em'>Second Language Studies Program, Michigan State University</span>"
 permalink: /teaching/2015-spring-teaching-2
 ---
