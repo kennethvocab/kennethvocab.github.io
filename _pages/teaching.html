@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: "Here are the awards and grants I have received:"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
 {% include base_path %}
 
-{% include archive-single.html %}
-
 {% for post in site.teaching reversed %}
-
+  {% include archive-single.html %}
 {% endfor %}
