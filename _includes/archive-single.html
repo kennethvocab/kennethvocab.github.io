@@ -44,7 +44,7 @@
     {% if post.venue %}
       , <i>{{ post.venue }}</i>
     {% endif %}
-    {% if post.date %}
+    {% if post.date and post.date != "" %}
       , {{ post.date | date: "%Y" }}
     {% endif %}
   </p>
@@ -52,12 +52,12 @@
 {% elsif post.collection == 'publications' %}
   <p>
     Published in <i>{{ post.venue }}</i>
-    {% if post.date %}
+    {% if post.date and post.date != "" %}
       , {{ post.date | date: "%Y" }}
     {% endif %}
   </p>
 
-{% elsif post.date %}
+{% elsif post.date and post.date != "" %}
   <p class="page__date">
     <strong>
       <i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
@@ -68,6 +68,7 @@
     </time>
   </p>
 {% endif %}
+
 
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
