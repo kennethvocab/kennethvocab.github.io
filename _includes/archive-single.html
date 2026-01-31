@@ -67,10 +67,7 @@
 
 {% elsif post.collection == 'publications' %}
   <p>
-    Published in <i>{{ post.venue }}</i>
-    {% if post.date %}
-      , {{ post.date | date: "%Y" }}
-    {% endif %}
+    Published in <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}
   </p>
 
 {% elsif post.date %}
@@ -84,9 +81,6 @@
     </time>
   </p>
 {% endif %}
-
-
-
 
 
     {% if post.excerpt and site.read_more != 'enabled' %}
