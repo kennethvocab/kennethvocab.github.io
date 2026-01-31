@@ -44,7 +44,8 @@
     {% if post.venue %}
       , <i>{{ post.venue }}</i>
     {% endif %}
-    {% if post.date and post.date != "" %}
+    {%- comment -%} Optional: show year if desired {%- endcomment -%}
+    {% if post.date %}
       , {{ post.date | date: "%Y" }}
     {% endif %}
   </p>
@@ -52,10 +53,12 @@
 {% elsif post.collection == 'publications' %}
   <p>
     Published in <i>{{ post.venue }}</i>
-    {% if post.date and post.date != "" %}
+    {% if post.date %}
       , {{ post.date | date: "%Y" }}
     {% endif %}
   </p>
+{% endif %}
+
 
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
