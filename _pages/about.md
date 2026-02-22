@@ -11,7 +11,7 @@ My name is W. Y. Kenneth Li. I am currently a fully-funded PhD student in Second
 
 👨‍🎓 Research interests:
 - Vocabulary acquisition
--	Formulaic sequences
+-	Multiword sequences
 - Psycholinguistics
 - Second language processing
 - Technology-enhanced language learning/CALL
