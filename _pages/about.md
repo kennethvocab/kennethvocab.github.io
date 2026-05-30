@@ -14,7 +14,7 @@ My name is Kenneth W. Y. Li. I go by Kenneth. I am currently a fully-funded PhD 
 -	Multiword sequences
 - Psycholinguistics
 - Second language processing
-- Technology-enhanced language learning
+- Technology enhanced language learning
 
 I am particularly interested in using experiments with 🧠 psycholinguistic measures of reaction times (RTs) and eye-tracking to examine the cognitive mechanisms of vocabulary acquisition. My publications have appeared or will appear in *Studies in Second Language Acquisition*, *TESOL Quarterly*, *Applied Linguistics*, and *Language Learning & Technology*, among other venues.
  
