@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 🌟 Bio:<br><br>
-My name is Kenneth W. Y. Li. I go by Kenneth. I am currently a fully-funded PhD student (2025 Fall-Present) in Second Language Studies at Michigan State University (USA)🇺🇸. I received my MSc in Applied Linguistics and Second Language Acquisition with Distinction in Overall and Thesis from University of Oxford (UK)🇬🇧. Prior to starting my PhD journey, I worked as a full-time research assistant on funded projects at The University of Hong Kong (Hong Kong)🇭🇰. 
+My name is Kenneth W. Y. Li. I go by Kenneth. I am currently a fully-funded PhD student [2025 Fall-Present] in Second Language Studies at Michigan State University (USA)🇺🇸. I received my MSc in Applied Linguistics and Second Language Acquisition with Distinction in Overall and Thesis from University of Oxford (UK)🇬🇧. Prior to starting my PhD journey, I worked as a full-time research assistant on funded projects at The University of Hong Kong (Hong Kong)🇭🇰. 
 
 👨‍🎓 Research interests:
 - Second language vocabulary acquisition
